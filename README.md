@@ -8,7 +8,7 @@
 
 ## Gem Pry e configuração do navegador: 
 Para a realização deste desafio, adicionei uma gem para me ajudar a "depurar" meu código, esta  GEM é a PRY, que me permite depurar meu código em tempo real no terminal
-infos sobre a gem: https://medium.com/assertqualityassurance/debugando-seus-testes-usando-a-gem-pry-7685d222215
+infos sobre a gem -  https://medium.com/assertqualityassurance/debugando-seus-testes-usando-a-gem-pry-7685d222215
 
 E para configurações extras do navegador usei as seguintes linhas:
 
