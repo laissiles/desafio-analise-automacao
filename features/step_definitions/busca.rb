@@ -1,4 +1,4 @@
-Dado("que esteja na página inicial") do
+Dado("que esteja na página inicial") do 
   @home_page.load
 end
 
